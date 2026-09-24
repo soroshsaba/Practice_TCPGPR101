@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Challenge_GalacticResourceManager/Challenge_GalacticResourceManager.vcxproj" Id="5424cb6d-6b5b-4947-832c-bc05ef1ea416" />
+  <Project Path="farenheitcelsius/farenheitcelsius.vcxproj" Id="7d212802-6eb1-4e5d-9ed9-e2ffeb590ab7" />
+  <Project Path="finalweek1practice/finalweek1practice.vcxproj" Id="492a9f42-1581-4380-a27c-aafe8f715b22" />
+  <Project Path="LootSplit/LootSplit.vcxproj" Id="790a73ee-0818-4a03-81a3-8644e1e8dcf2" />
+  <Project Path="Project1/Project1.vcxproj" Id="7bb50281-7533-42b1-aa6c-f56e01a11630" />
+  <Project Path="Task3practice/Task3practice.vcxproj" Id="f6e81a95-0264-4b01-92c9-3b33f115e07c" />
+  <Project Path="Task4practice/Task4practice.vcxproj" Id="cf3921a0-b199-4799-99e8-653660d03041" />
+  <Project Path="week2practice3/week2practice3.vcxproj" Id="6fd984a8-992b-4e4d-a5dd-76668d342295" />
+  <Project Path="week2task2practice/week2task2practice.vcxproj" Id="e11ea9d5-d076-4071-a42b-1984cdbb3d7f" />
+  <Project Path="week2task4/week2task4.vcxproj" Id="dc010c4f-0b28-4e39-b6de-c59e41030d1e" />
+  <Project Path="Week2_video_practice/Week2_video_practice.vcxproj" Id="cfb7df20-d3e6-4d3e-a6e0-000987d2d98a" />
+</Solution>
